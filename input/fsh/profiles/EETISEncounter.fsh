@@ -6,7 +6,7 @@ Description: "A profile for basic encounter. (ee TERVISHOIUKONTAKT v KONTAKT)"
 * extension contains
     ExtensionEETISSummary named summary 0..1 and
     ExtensionEETISEoCorEncounterReference named relations 0..*
-* extension[summary] ^short = "Textual summary of encounter when needed. (ee Vabatekstiline kokkuvõte kontaktist.)"    
+* extension[summary] ^short = "Textual summary of encounter when needed. (ee Vabatekstiline kokkuvõte tervishoiukontaktist.)"    
 * extension[relations] ^short = "Related encounter when needed. (ee KAS partOf LAHENDAKS SELLE VAJADUSE ÄRA?!?!?! )"
 * meta.versionId ^short = "(ee Versiooni identifikaator)"
 * meta.security ^short = "Confidentiality for patient, practitioner and trustee. (ee Konfidentsiaalsus siia? HL7 codesystem. Seda saaks ka sliceda...? Konf.patsiendile/konf arstile/konf usaldusisikule, 3 slice.)"
