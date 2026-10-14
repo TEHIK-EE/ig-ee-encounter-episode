@@ -1,0 +1,23 @@
+Source File	Size	loadResources	load	generateSnapshots	load-configure	scan	loadDepInfo	loadInfo	checkR4R4B	generateNarratives	validate	loadLists	checkConformanceResources	checkConformanceResources2	checkConformanceResources3	generateLogicalMaps	validateExpressions	scanForUsageStats	checkURLsUnique	processProvenanceDetails	generate1	generate2	generateLogicals	makeDependencies	generateExampleZip	generateValidationPack	scanProfilesForR5	scanExamplesForR5
+/fsh-generated/resources/ImplementationGuide-ee.fhir.encounterepisode.json	6302	-	0	0	0	0	0	0	8	53	0	0	0	0	0	0	0	0	0	0	59	54	0	0	0	2	0	0
+fsh-generated/resources/Encounter-encounter1.json	4044	7	0	0	1	0	0	0	1	704	0	0	0	0	0	0	0	0	0	0	20	35	0	0	0	0	0	0
+fsh-generated/resources/EpisodeOfCare-episodeofcare1.json	2308	3	0	0	0	0	0	0	1	42	0	0	0	0	0	0	0	0	0	0	13	23	0	0	0	0	0	0
+fsh-generated/resources/StructureDefinition-EETISEncounterLM.json	10068	5	0	36	1	0	0	0	0	101	0	0	1	0	0	0	0	1	0	0	135	846	0	0	0	3	0	0
+fsh-generated/resources/StructureDefinition-ee-tis-encounter-stationary.json	7694	4	0	67	0	0	1	0	0	60	0	0	0	0	0	0	0	1	0	0	333	859	0	0	0	18	0	1
+fsh-generated/resources/StructureDefinition-ee-tis-encounter.json	9415	5	0	75	0	0	0	1	0	45	0	0	0	0	0	0	0	1	0	0	366	452	0	0	0	11	0	1
+fsh-generated/resources/StructureDefinition-ee-tis-eoc-or-encounter-reference.json	2048	3	0	9	0	0	0	0	0	8	0	0	0	0	0	0	0	1	0	0	31	89	0	0	0	2	0	0
+fsh-generated/resources/StructureDefinition-ee-tis-episode-of-care.json	7005	3	0	24	0	0	0	0	0	26	0	0	1	0	0	0	0	0	0	0	190	278	0	0	0	5	1	1
+fsh-generated/resources/StructureDefinition-ee-tis-summary.json	1586	3	0	7	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0	36	81	0	0	0	1	0	0
+/fsh-generated/includes/fsh-link-references.md	529	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+/fsh-generated/includes/menu.xml	1726	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+/input/pagecontent/contacts.md	373	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+/input/pagecontent/search.xml	446	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	51	0	0	0	0	0	0
+/input/pagecontent/index.md	1283	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+/input/pagecontent/page1.md	290	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+/input/pagecontent/page2.md	87	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+/input/pagecontent/downloads.xml	1148	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	32	0	0	0	0	0	0
+/template/config	0	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+/template/config/_config.yml	140	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+/input/images	0	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+/input/images/robots.txt	24	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+/temp/pages/_includes/artifacts.xml	5523	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	0	0	0	0	0	0
